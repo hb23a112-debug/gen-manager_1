@@ -1,0 +1,11 @@
+# 生成物・記録DB(プロンプト等の個人情報を含むため公開しない)
+gen_library/
+_gen_tracker/
+*.db
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
