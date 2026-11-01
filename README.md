@@ -5,9 +5,8 @@ ComfyUI の左サイドバーに **「生成管理」タブ**を追加するカ�
 画像をクリックすると、**生成設定(プロンプト・モデル・LoRA・サンプラー)と所要時間**が確認できます。
 生成するたびに設定や所要時間が**自動で記録**されるので、コマンドや設定ファイルは不要です。
 
-> 画面イメージ(動作確認用のサンプルデータです)
->
-> ![ギャラリー](docs/screenshot-gallery.png) ![詳細](docs/screenshot-detail.png)
+> ![ギャラ<img width="445" height="836" alt="スクリーンショット 2026-11-01 181119" src="https://github.com/user-attachments/assets/3c5590b0-8746-430b-ba7a-2da0851c9162" />
+リー](docs/screenshot-gallery.png) ![詳細](docs/screenshot-detail.png)
 
 - **日付ごとの表示**(新しい順)と、**種類**(png / jpg / mp4 / mp3 …)・**日付範囲**・**条件**・**タグ**・**お気に入りのみ**での絞り込み
 - ★ でお気に入り登録。タグとメモも付けられる
